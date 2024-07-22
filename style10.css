@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+div {
+    text-align: center;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+caption {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+th, td {
+    width: 170px;
+    border: 1px solid black;
+    padding: 8px 4px;
+    text-align: left;
+    color: blue;
+}
+
+.destacar {
+    background-color: red;
+    color: white;
+}
+
+tfoot td {
+    text-align: center;
+    font-size: 12px;
+}
