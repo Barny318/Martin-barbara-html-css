@@ -1,0 +1,27 @@
+<!DOCTYPE HTML>
+<html lang = "es">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Actividad 7</title>
+        <style>
+            div {
+            color:Red;
+            text-align: center;
+            }
+            p {
+                color:green;
+                text-align: left;
+                margin-left: 100px;
+            }
+        </style>
+        
+    </head>
+    <body>
+        <div> <h1>Titular dentro de un div</h1></div>
+        <p>EL dia 15/16/2024 no se</p>
+        <p>La música mejora mucho el humor y evita el estrés :c</p>
+        <p>no se</p>
+       
+    </body>
+</html>
