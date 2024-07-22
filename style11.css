@@ -1,0 +1,31 @@
+#div1{
+    background-color:lightcoral;
+    text-align: center;
+    border-radius: 25px;
+    color: bisque;
+    
+}
+#div2{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height:300px;
+    width: 550px;
+    background-color:lightcoral;
+    text-align: left;
+    border-radius: 25px;
+    padding: 20px;
+    color: bisque;
+    
+
+}
+.enviar{
+    position: absolute;
+    top: 90%;
+    left: 50%;
+    transform: translate(-90%,-50%);
+}
+body{
+    background-color:bisque;
+}
