@@ -1,0 +1,21 @@
+<!DOCTYPE HTML>
+<html lang = "es">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Actividad 6</title>
+        <style>
+            h1 {
+                color:blue;
+                text-align: center;
+                }
+        </style>
+    </head>
+    
+    <body>
+        <header>
+        <h1>Título centrado jiji</h1>
+
+        </header>
+    </body>
+</html>
