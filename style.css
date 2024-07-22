@@ -1,0 +1,23 @@
+h1{
+    color:indianred;}
+
+img{
+    width: 300px;
+}
+a{
+    color:indianred;
+}
+.divClass{
+    text-align:left;
+}
+#thirdDiv{
+    height: 500px;
+    width: 500px;
+    background-color:bisque;
+    padding: 50px;
+    color:indianred;}
+#spanID{
+    font-size: 18px;
+    margin: 50px;
+
+}
