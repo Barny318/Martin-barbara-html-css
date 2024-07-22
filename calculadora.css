@@ -1,0 +1,46 @@
+#calculadora{
+    width:350px ;
+    height:500px ;
+    background-color: indianred;
+    border-radius:25px ;
+    border: 3px solid brown 
+}
+
+input#display{
+    width:300px ;
+    height:100px ;
+    font-size: 5;
+    background-color: bisque;
+    border-color: brown;
+    text-align: center;
+    color:indianred;
+    font-size: 32px;
+}
+
+button{
+    width:70px;
+    height:70px;
+    border-radius: 10px;
+    background-color: bisque;  
+    border-color: brown;
+    
+    
+}
+button:hover {
+    background-color: indianred;
+    color: bisque;
+}
+
+div{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    align-items: center;
+    justify-content:center;
+}
+
+body{
+    background-color: bisque;
+}
