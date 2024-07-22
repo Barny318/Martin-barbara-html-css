@@ -1,0 +1,19 @@
+<!DOCTYPE HTML>
+<html lang = "es">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Actividad 5</title>
+    </head>
+    <body>
+        <h1>Paises °o°</h1>
+        <ol>
+            <li>Inglaterra</li>
+            <p><a HREF="https://www.bbc.com/news/articles/cnkkp7eejyqo"> Noticia chistosa </a></p>
+            <li>España</li>
+            <p><a HREF="https://elpais.com/espana/2024-06-15/la-aplicacion-de-la-ley-de-amnistia-desata-una-guerra-en-la-cupula-de-la-fiscalia.html">Noticia política</a></p>
+            <li>Francia</li> 
+            <p><a HREF="https://www.lexpress.fr/economie/jo-dhiver-2030-histoires-dargent-et-batailles-politiques-menacent-la-candidature-des-alpes-6XHXYLZTMZGGDPYYLRU3GMLALM/">Noticia que no se leer</a></p>
+        </ol>
+    </body>
+</html>
