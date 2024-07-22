@@ -1,0 +1,17 @@
+<!DOCTYPE HTML>
+<html lang = "es">
+    <head>
+        <meta charset="utf-8">
+        <title>Actividad 2</title>
+    </head>
+    <body>
+        <h1>Lenguajes de Programación</h1>
+        <h3>Python</h3>
+        <h3>html</h3>
+        <h3>Java</h3>
+        <h3>C++</h3>
+        <h3>PHP</h3>
+        <h3>Ruby</h3>
+        <h3>SQL</h3>
+    </body>
+</html>
