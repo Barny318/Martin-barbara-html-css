@@ -1,0 +1,33 @@
+<!DOCTYPE HTML>
+<!Agregue algunas cosas que no afecta a lo que pidio, solo es para que se vea mas bonito y poder practicar :D>
+<html lang = "es">
+    <head>
+
+        <link rel="stylesheet" href="style.css">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta charset="utf-8">
+        <title>Ejercicio 9 de Bárbara Martín</title>
+ 
+    </head>
+    <body>
+        <div class="divClass">
+            <h1>Bárbara Martín</h1>
+            <h3>Instituto Manuel de Falla</h3>
+            <h4>HTML/CSS</h4>
+        </div>
+        <div class="divClass"><span>Mi comida favorita es el sushi, es una comida japonesa típica la cual consiste de arroz, pescado mariscos y alga.
+            Lo divertido de comer este platillo es que hay mucha creatividad y variedad, nunca es igual y es muy rico, tambien puede ser agridulce,salado o dulce completamente, es algo realmente genial.
+        </span id="spanID"><p><a href="https://pedidos.sushi2x1.com.ar/sucursales">Mi local favorito y de buena calidad</a></p>
+        </div>
+        <div id="thirdDiv">
+            <h3>Hay dos formatos ricos:</h3>
+            <ul>
+                <li>Sushi en piezas (15, 30, 60)</li>
+                <p><img src="https://cdn.pedix.app/ubkWyE3z5USraXF7BbNB/products/1718026571717-20600.png?size=2000x2000" height="250"  /></p>
+                <li>Ensalada gohan (Una ensalada que es como un sushi grande por que tiene todos los ingredientes de uno)</li>
+                <p><img src="https://cdn.pedix.app/ubkWyE3z5USraXF7BbNB/products/1718026572628-74545.png?size=2000x2000" height="250"  /></p>
+            </ul>
+        </div>
+
+    </body>
+</html>
